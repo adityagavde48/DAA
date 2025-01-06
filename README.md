@@ -53,5 +53,5 @@ Enhancement of emergency response efficiency by identifying less congested route
 </dl>
 
 <br> 
-> “The only way to do great work is to love what you do.” – bill gate
+> "Aspiring Engineering Student | Passionate about Innovation and Problem-Solving | Committed to Continuous Learning and Growth | Open to Networking and Collaboration"
 >
