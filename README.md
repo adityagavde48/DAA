@@ -2,7 +2,7 @@
 portfolio 
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [ADITYA GAVADE] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -16,28 +16,28 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/adityagavde48)
+- [LinkedIn]((https://www.linkedin.com/feed/))
 
 ## Portfolio Topic
 
 <dl>
-<dt>Course Name</dt>
+<dt>Course :DAA</dt>
 <dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dt>Course </dt>
+<dd>DAA </dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>ADITYA GAVADE</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>02FE24BCS408</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Shakar B </dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>KLE TECHNOLOGY </dd>
+<dt>Portfolio Traffic stimulation /Domain</dt>
+<dd>Microsoft </dd>
 </dl>
 
 <br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
+> “The only way to do great work is to love what you do.” – bill gate
 >
