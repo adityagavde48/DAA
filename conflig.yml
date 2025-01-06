@@ -1,0 +1,10 @@
+title: DAA portfolios 
+description:The project aims to address traffic management and control.
+The description indicates that it’s an application that deals with solutions for optimizing traffic flow or reducing congestion.
+Possible Features of the Application (inferred from the description):
+
+Traffic Signal Optimization: Using algorithms to manage traffic lights and minimize wait times.
+Vehicle Flow Analysis: Algorithms to analyze and predict traffic patterns.
+Emergency Route Management: Handling routes for emergency vehicles or peak traffic times.
+Real-Time Monitoring: Offering insights into traffic conditions using real-time data.
+theme: jekyll-theme-cayman
