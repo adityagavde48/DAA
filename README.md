@@ -2,9 +2,6 @@
 <html lang="en">
 <head>
 
-    <style>
-        /* General Styles */
-        body {
 
 </head>
 <body>
