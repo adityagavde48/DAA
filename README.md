@@ -61,5 +61,7 @@
     <footer class="footer">
         <p>&copy; 2025 Aditya Gavade</p>
     </footer>
+    <img src="download.jpg" alt="Description of the image" width="300">
+
 </body>
 </html>
