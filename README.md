@@ -47,7 +47,7 @@
                 <dt>SRN</dt>
                 <dd>02FE24BCS408</dd>
                 <dt>Course Instructor</dt>
-                <dd>Shakar B</dd>
+                <dd>Shankar B</dd>
                 <dt>University</dt>
                 <dd>KLE TECHNOLOGY</dd>
                 <dt>Department</dt>
