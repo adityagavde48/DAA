@@ -49,7 +49,7 @@ Enhancement of emergency response efficiency by identifying less congested route
 <dt>University</dt>
 <dd>KLE TECHNOLOGY </dd>
 <dt>COMPUTER SCIENCE AND ENGINEERING </dt>
-<dd>Microsoft </dd>
+<dd>BE </dd>
 </dl>
 
 <br> 
