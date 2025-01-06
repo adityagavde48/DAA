@@ -1,57 +1,143 @@
-# DAA
-portfolio 
-## Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAA Portfolio - Aditya Gavade</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
 
-### Hello, I'm ADITYA GAVADE 👋
+        header {
+            background-color: #5c67f2;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
+        main {
+            margin: 20px;
+            padding: 20px;
+        }
 
-## 🛠️ Projects
-- **Project 1**:Objectives:
-To analyze urban traffic trends.
-To utilize Machine Learning (ML) algorithms to provide insights into traffic flow, patterns, and congestion.
-To predict potential traffic jams or high-density traffic zones to improve city transportation systems.
-Features:
-Use of real-time and historical traffic data for analysis.
-Implementation of predictive ML models to forecast traffic.
-Presentation of results through visualizations or dashboards for easier understanding.
-Technologies:
-Machine Learning: Core focus on implementing ML models to process and analyze data.
-Data Sources: May involve GPS, IoT, or government-provided traffic datasets.
-Visualization: Tools to display traffic conditions, such as charts or heatmaps.
-Applications:
-Improved traffic management systems.
-Reduction of travel time for commuters.
-Enhancement of emergency response efficiency by identifying less congested routes.
+        h1, h2 {
+            text-align: center;
+        }
 
-## 🚀 Skills
-- C++, Python, JavaScript
-- Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+        .highlight {
+            color: #ff5733;
+        }
 
-## 🌐 Find Me Online
-- [GitHub](https://github.com/adityagavde48)
-- [LinkedIn]((https://www.linkedin.com/feed/))
+        .project-card {
+            background-color: #ffffff;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            margin: 10px 0;
+            padding: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
 
-## Portfolio Topic
+        .project-card h3 {
+            color: #5c67f2;
+        }
 
-<dl>
-<dt>Course :DAA</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course </dt>
-<dd>DAA </dd>
-<dt>Name</dt>
-<dd>ADITYA GAVADE</dd>
-<dt>SRN</dt>
-<dd>02FE24BCS408</dd>
-<dt>Course Instructor</dt>
-<dd>Shakar B </dd>
-<dt>University</dt>
-<dd>KLE TECHNOLOGY </dd>
-<dt>COMPUTER SCIENCE AND ENGINEERING </dt>
-<dd>BE </dd>
-</dl>
+        ul, dl {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
 
-<br> 
-> "Aspiring Engineering Student | Passionate about Innovation and Problem-Solving | Committed to Continuous Learning and Growth | Open to Networking and Collaboration"
->
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        a {
+            color: #5c67f2;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        blockquote {
+            font-style: italic;
+            background: #f0f8ff;
+            border-left: 5px solid #5c67f2;
+            margin: 20px 0;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>DAA Portfolio</h1>
+    </header>
+    <main>
+        <section class="about">
+            <h2>Hello, I'm <span class="highlight">ADITYA GAVADE</span> 👋</h2>
+            <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
+        </section>
+        <section class="projects">
+            <h2>🛠️ Projects</h2>
+            <div class="project-card">
+                <h3>Project 1: Traffic Analysis Using Machine Learning</h3>
+                <ul>
+                    <li><strong>Objectives:</strong> Analyze urban traffic trends and predict traffic jams using ML algorithms.</li>
+                    <li><strong>Features:</strong> Real-time traffic data analysis, predictive ML models, and visualization dashboards.</li>
+                    <li><strong>Technologies:</strong> Machine Learning, GPS/IoT data sources, visualization tools.</li>
+                    <li><strong>Applications:</strong> Improved traffic management, reduced travel time, enhanced emergency response efficiency.</li>
+                </ul>
+            </div>
+        </section>
+        <section class="skills">
+            <h2>🚀 Skills</h2>
+            <ul>
+                <li>C++, Python, JavaScript</li>
+                <li>Data Structures and Algorithms</li>
+                <li>Web Development (React.js, Node.js)</li>
+            </ul>
+        </section>
+        <section class="find-me">
+            <h2>🌐 Find Me Online</h2>
+            <p><a href="https://github.com/adityagavde48" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
+        </section>
+        <section class="details">
+            <h2>Portfolio Topic</h2>
+            <dl>
+                <dt>Course</dt>
+                <dd>DAA (Algorithmic Problem Solving)</dd>
+                <dt>Name</dt>
+                <dd>ADITYA GAVADE</dd>
+                <dt>SRN</dt>
+                <dd>02FE24BCS408</dd>
+                <dt>Course Instructor</dt>
+                <dd>Shakar B</dd>
+                <dt>University</dt>
+                <dd>KLE TECHNOLOGY</dd>
+                <dt>Department</dt>
+                <dd>COMPUTER SCIENCE AND ENGINEERING (BE)</dd>
+            </dl>
+        </section>
+        <blockquote>
+            "Aspiring Engineering Student | Passionate about Innovation and Problem-Solving | Committed to Continuous Learning and Growth | Open to Networking and Collaboration"
+        </blockquote>
+    </main>
+    <footer class="footer">
+        <p>&copy; 2025 Aditya Gavade</p>
+    </footer>
+</body>
+</html>
